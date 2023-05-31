@@ -9,13 +9,9 @@ This is a random chat app that allows users to connect with each other and have 
 - **Random Matching**: Users are randomly matched with other online users for one-on-one chat sessions.
 - **semi-Anonymous Chatting**: Users can chat with each other without revealing their real identities.
 - **Real-Time Messaging**: Chat messages are delivered in real-time for a seamless chatting experience.
-- **User Profiles**: Users can create profiles with a username and optional profile picture.
+- **User Profiles**: Users can create and update profiles with a username and optional profile picture.
 - **Message History**: Chat history is saved for each user, allowing them to view their previous conversations.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Installation
 
@@ -34,5 +30,5 @@ This is a random chat app that allows users to connect with each other and have 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-
+## demo video link
 ---
