@@ -1,17 +1,34 @@
-# handong_manna
+---
 
-A new Flutter project.
+# Handong Manna (Random Chat App)
 
-## Getting Started
+This is a random chat app that allows users to connect with each other and have anonymous conversations.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Random Matching**: Users are randomly matched with other online users for one-on-one chat sessions.
+- **semi-Anonymous Chatting**: Users can chat with each other without revealing their real identities.
+- **Real-Time Messaging**: Chat messages are delivered in real-time for a seamless chatting experience.
+- **User Profiles**: Users can create and update profiles with a username and optional profile picture.
+- **Message History**: Chat history is saved for each user, allowing them to view their previous conversations.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# HandongManna
+## Installation
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using the package manager of your choice.
+3. Configure the necessary API keys and settings for your backend server.
+4. Build and run the app on your preferred development environment or device.
+
+## Technologies Used
+
+- Flutter: Cross-platform UI toolkit for building native applications.
+- Dart: Programming language used for building Flutter apps.
+- Firebase: Backend service used for real-time messaging and user authentication.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## demo video link
+---
